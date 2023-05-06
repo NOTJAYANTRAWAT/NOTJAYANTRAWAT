@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayant Rawat</h1>
 <h3 align="center">A front-end developer passionate about cyber-security</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwi0qbLB6d_-AhXkl9gFHRvcASwQMygAegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=animate%20coding%20gif&ved=2ahUKEwi0qbLB6d_-AhXkl9gFHRvcASwQMygAegUIARDxAQ">
-<p align="left"> <img src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmt1TzM2WGhycGR0M2tNZFpBNXNJbkh2UTQwd3xBQ3Jtc0trSFA4THN0dFdqUUJpZ2dPVXhKS1g3QkN1U0xTTXdaTk1wUjM4LVRETTRCWGlzTnlUX1NEME5TczM3eVpic3doRDI3U1otOG5LUEtKeFlSOXBrOFE4Z0FVNXNjOXRGQkV2Q0FFcEZrY2NDU0VuV2R2dw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0" alt="notjayantrawat" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notjayantrawat&label=Profile%20views&color=0e75b6&style=flat" alt="notjayantrawat" /> </p>
 
 - 🔭 I’m currently working on **FoodSeva**
 
