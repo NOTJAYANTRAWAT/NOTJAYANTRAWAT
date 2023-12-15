@@ -15,7 +15,7 @@
 
 - 👨‍💻 Check out my porftfolio website **https://jayant-rawat-portfolio.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Dl7dV6BC8vh-yG59VxgTcjbzJdmA4Bp/view?usp=sharing](https://drive.google.com/file/d/1-Dl7dV6BC8vh-yG59VxgTcjbzJdmA4Bp/view?usp=sharing)
+- 📄 Know about my experiences **Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen **
 
 - ⚡ Fun fact **I am an Certified Ethical Hacker**
 
