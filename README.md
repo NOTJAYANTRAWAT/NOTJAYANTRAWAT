@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs,TypeScript,TailwindCss**
 
-- 👨‍💻 All of my projects are available at [https://jayant-rawat-portfolio.vercel.app/](https://jayant-rawat-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jayant-rawat-portfolio.vercel.app/](https://portfolio-jayant-eight.vercel.app/)
 
 - 💬 Ask me about **ReactJs,Python,C++,Manim**
 
