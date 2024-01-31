@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences : Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen 
 
-- ⚡ Fun fact **I am an Certified Ethical Hacker**
+- ⚡ Fun fact **I am an Certified Ethical Hacker and also I cleared eWPTXv2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
