@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jayantrawat02@gmail.com**
 
-- 👨‍💻 Check out my porftfolio website **https://jayant-rawat-portfolio.vercel.app/**
+- 👨‍💻 Check out my porftfolio website **https://portfolio-jayant-eight.vercel.app/**
 
 - 📄 Know about my experiences : Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen 
 
