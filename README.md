@@ -3,21 +3,21 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notjayantrawat&label=Profile%20views&color=0e75b6&style=flat" alt="notjayantrawat" /> </p>
 
-- 🔭 I’m currently working on **FoodSeva**
+- 🔭 I’m currently working on **PI Scrapper**
 
 - 🌱 I’m currently learning **NextJs,TypeScript,TailwindCss**
 
 - 👨‍💻 All of my projects are available at [https://jayant-rawat-portfolio.vercel.app/](https://portfolio-jayant-eight.vercel.app/)
 
-- 💬 Ask me about **ReactJs,Python,C++,Manim**
+- 💬 Ask me about **Web Pen Testing , Android and IOS Pen testing**
 
 - 📫 How to reach me **jayantrawat02@gmail.com**
 
 - 👨‍💻 Check out my porftfolio website **https://portfolio-jayant-eight.vercel.app/**
 
-- 📄 Know about my experiences : Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen 
+- 📄 Know about my experiences : **Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen , Senior Executive Cybersecurity Nangia Andersen**
 
-- ⚡ Fun fact **I am an Certified Ethical Hacker and also I cleared eWPTXv2**
+- ⚡ Fun fact **I am a Certified Ethical Hacker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
