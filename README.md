@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jayant-rawat-portfolio.vercel.app/](https://portfolio-jayant-eight.vercel.app/)
 
-- 💬 Ask me about **Web Pen Testing , Android and IOS Pen testing**
+- 💬 Ask me about **Web Pen Testing , Android Pen testing**
 
 - 📫 How to reach me **jayantrawat02@gmail.com**
 
